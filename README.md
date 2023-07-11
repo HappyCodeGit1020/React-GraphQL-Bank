@@ -1,4 +1,4 @@
-# apollobank 🚀
+# React-GraphQL-Bank 🚀
 
 A fullstack GraphQL banking application built using React, Node & TypeScript.
 
